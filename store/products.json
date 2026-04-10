@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "pro-earbuds-x1",
+    "name": "ProSound X1 Wireless Earbuds",
+    "price": 3499,
+    "compare_price": 7999,
+    "description": "Premium wireless earbuds with 30-hour battery life, Bluetooth 5.3, and IPX5 water resistance. Built for Pakistan's climate and daily commute demands.",
+    "review_summary": "Exceptional sound clarity, 30-hour total battery life, and a connection that held across 2km of city commute without a single dropout. Best in class under Rs. 5,000.",
+    "images": [],
+    "stock": 23,
+    "pros": [
+      "30hr total battery life",
+      "Deep bass, clear mids",
+      "Stable Bluetooth 5.3",
+      "IPX5 sweat resistant",
+      "Fast charge: 10 min = 2hr"
+    ],
+    "cons": [
+      "No ANC at this price",
+      "Basic carry case design"
+    ],
+    "features": [
+      {"icon": "🔋", "text": "30hr battery life"},
+      {"icon": "📶", "text": "Bluetooth 5.3"},
+      {"icon": "💧", "text": "IPX5 waterproof"},
+      {"icon": "⚡", "text": "Fast charge 10min"},
+      {"icon": "🎙️", "text": "Clear call quality"},
+      {"icon": "📦", "text": "Free delivery"}
+    ],
+    "upsell_slug": "charging-dock-pro",
+    "order_bump_slug": "extended-warranty"
+  },
+  {
+    "slug": "extended-warranty",
+    "name": "2-Year Extended Warranty",
+    "bump_price": 499,
+    "bump_description": "Full replacement or repair coverage for 2 years. One-time fee, zero hassle. Covers all manufacturing defects and connectivity issues.",
+    "price": 499,
+    "compare_price": 1499,
+    "images": [],
+    "stock": 999
+  },
+  {
+    "slug": "charging-dock-pro",
+    "name": "Wireless Charging Dock Pro",
+    "price": 2499,
+    "compare_price": 4999,
+    "description": "3-in-1 wireless charging dock. Charges phone, earbuds, and smartwatch simultaneously. Compatible with all Qi-enabled devices.",
+    "images": [],
+    "stock": 15,
+    "features": [
+      {"icon": "⚡", "text": "15W fast wireless"},
+      {"icon": "📱", "text": "3-device simultaneous"},
+      {"icon": "🔌", "text": "USB-C powered"},
+      {"icon": "🌙", "text": "Auto sleep mode"}
+    ]
+  }
+]
